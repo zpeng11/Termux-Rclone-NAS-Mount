@@ -14,7 +14,7 @@ A robust script for mounting NAS storage in Termux using rclone with FUSE, makin
 ## 📋 Prerequisites
 
 ### Hardware/Software Requirements
-- **Rooted Android device** with Magisk installed
+- **Rooted Android device** with Magisk installed, and enable global-naming-space mode in settings.
 - **Termux** app installed from F-Droid (recommended) or GitHub releases
 - **Network connectivity** to your NAS device
 
